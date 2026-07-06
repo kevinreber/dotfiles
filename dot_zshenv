@@ -1,0 +1,4 @@
+. "$HOME/.cargo/env"
+
+# Local-only secrets (API keys, tokens). Not tracked in personal-setup.
+[ -f "$HOME/.zshenv.local" ] && . "$HOME/.zshenv.local"

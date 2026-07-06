@@ -1,0 +1,5 @@
+# Work-context Raycast scripts — kept on this machine, excluded from the
+# public dotfiles repo. (They fetch from 1Password at runtime; no secrets,
+# but they're work tooling and don't belong in a public personal repo.)
+.config/raycast/scripts/paste-ms-password.sh
+.config/raycast/scripts/paste-tacacs-password.sh
