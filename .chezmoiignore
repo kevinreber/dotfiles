@@ -1,3 +1,6 @@
+# Repo docs — live in the repo, never applied to the home dir.
+README.md
+
 # Work-context Raycast scripts — kept on this machine, excluded from the
 # public dotfiles repo. (They fetch from 1Password at runtime; no secrets,
 # but they're work tooling and don't belong in a public personal repo.)
